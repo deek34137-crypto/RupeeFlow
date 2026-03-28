@@ -18,4 +18,8 @@ build/
 .cache/
 
 .vercel
+<<<<<<< HEAD
 .render
+=======
+.render
+>>>>>>> c86f2c363e92d4bd4a041d414d739008e4977afd
